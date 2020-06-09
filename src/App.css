@@ -1,0 +1,25 @@
+.App {
+	max-width: 70%;
+	margin: 5% auto;
+}
+input {
+	text-align: center;
+	max-width: 10%;
+}
+img {
+	margin-top: 10px;
+}
+.discovered {
+	background-color: grey;
+	min-width: 10%;
+}
+.lose {
+	display: block;
+	color: red;
+	margin: 10px;
+}
+.win {
+	display: block;
+	color: green;
+	margin: 10px;
+}
